@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e SQL**
 
-- 💬 Me pergunte sobre **Power BI, Excel e Estatística**
+- 💬 Me pergunte sobre **Power BI, Excel e Estatística, Python e SQL**
 
 - 📫 Você me acha através do e-mail **engmecbruno8@gmail.com**
 
