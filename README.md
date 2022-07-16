@@ -9,7 +9,9 @@
 
 - 📄 Para mais informações [https://www.linkedin.com/in/bruno-pereira-bento-b475b4164/](https://www.linkedin.com/in/bruno-pereira-bento-b475b4164/)
 
+<!--- 
 - Meu maior projeto e caso real está disponível no link: [https://app.powerbi.com/view?r=eyJrIjoiOGUzY2E4ZmQtNzYzNy00YWIwLTkwZDktZWQ3ZTg5NDRmNzIyIiwidCI6IjA3MGYzYjJiLWUzNzYtNDJiMS1hYzgyLTYxYWJlN2FjZDE4MiJ9&pageName=ReportSection] 
+--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
