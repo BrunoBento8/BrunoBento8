@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Bruno Bento</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e SQL**
+- 🌱 Atualmente estou aprendendo e trabalhando com **Python, SQL e DAX**
 
-- 💬 Me pergunte sobre **Power BI, Excel e Estatística, Python e SQL**
+- 💬 Me pergunte sobre **Power BI, Excel, Estatística, Python e SQL**
 
 - 📫 Você me acha através do e-mail **engmecbruno8@gmail.com**
 
