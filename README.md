@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, eu sou o Bruno Bento</h1>
 <h3 align="center">Apaixonado por dados</h3>
 
-- 🌱 Atualmente estou aprendendo e trabalhando com **Python, SQL e DAX**
+- 🌱 Currently studying **dbt, Python, SQL, AWS**
 
-- 💬 Me pergunte sobre **Power BI, Excel, Estatística, Python e SQL**
+- 💬 Ask me abou **dbt, SQL, Power BI, Data Modelling**
 
-- 📫 Você me acha através do e-mail **engmecbruno8@gmail.com**
+- 📫 Reach me: **engmecbruno8@gmail.com**
 
-- 📄 Para mais informações [https://www.linkedin.com/in/bruno-pereira-bento/](https://www.linkedin.com/in/bruno-pereira-bento/)
+- 📄 For more information: [linkedin](https://www.linkedin.com/in/bruno-pereira-bento/)
 
 <!--- 
 - Meu maior projeto e caso real está disponível no link: [https://app.powerbi.com/view?r=eyJrIjoiOGUzY2E4ZmQtNzYzNy00YWIwLTkwZDktZWQ3ZTg5NDRmNzIyIiwidCI6IjA3MGYzYjJiLWUzNzYtNDJiMS1hYzgyLTYxYWJlN2FjZDE4MiJ9&pageName=ReportSection] 
