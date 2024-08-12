@@ -5,7 +5,7 @@
 
 - 💬 Ask me abou **dbt, SQL, Power BI, Data Modelling**
 
-- 📫 Reach me: **engmecbruno8@gmail.com**
+- 📫 Reach me: [email](engmecbruno8@gmail.com)
 
 - 📄 For more information: [linkedin](https://www.linkedin.com/in/bruno-pereira-bento/)
 
